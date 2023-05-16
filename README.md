@@ -8,6 +8,6 @@
 
 ## **Output:**
 
-<img src="assets/login.png">
+<img src="login.png">
 
 <br/><br/>
